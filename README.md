@@ -1,4 +1,4 @@
-sage Terminator (配方終結者)
+Usage Terminator (配方終結者)
 
 這是一款為《逃離鴨科夫》設計的 Mod，靈感來自於 Minecraft 著名的 Mod - Just Enough Items (JEI)。
 
